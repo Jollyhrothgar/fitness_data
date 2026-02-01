@@ -1,0 +1,37 @@
+{
+  "plan_meta": {
+    "plan_id": "protocol_zero_foundation",
+    "plan_name": "Protocol Zero Foundation",
+    "version": "1.0",
+    "days_per_week": 3,
+    "focus": "strength",
+    "created_at": "2026-01-19T21:34:09.957Z",
+    "updated_at": "2026-02-01T06:24:04.939Z"
+  },
+  "schedule": [
+    {
+      "id": "day_a",
+      "day_name": "Day A - Push",
+      "day_order": 0,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "bench_press_barbell",
+          "substitution_group": "horizontal_push",
+          "sets": 4,
+          "target_reps": "6-8",
+          "target_rpe": 8,
+          "rest_seconds": 180
+        },
+        {
+          "order": 2,
+          "exercise_id": "overhead_press_barbell",
+          "substitution_group": "vertical_push",
+          "sets": 3,
+          "target_reps": "8-10",
+          "rest_seconds": 120
+        }
+      ]
+    }
+  ]
+}
