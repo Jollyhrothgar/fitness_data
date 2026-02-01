@@ -11,8 +11,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-01T18:50:51.457Z",
-    "updated_at": "2026-02-01T18:50:51.457Z"
+    "created_at": "2026-02-01T18:54:40.863Z",
+    "updated_at": "2026-02-01T18:54:40.863Z"
   },
   {
     "id": "overhead_press_barbell",
@@ -25,7 +25,7 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-01T18:50:51.457Z",
-    "updated_at": "2026-02-01T18:50:51.457Z"
+    "created_at": "2026-02-01T18:54:40.863Z",
+    "updated_at": "2026-02-01T18:54:40.863Z"
   }
 ]
