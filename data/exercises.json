@@ -9,8 +9,77 @@
       "obliques"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.342Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "arnold_press",
+    "name": "Arnold Press",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "assisted_pullup_machine",
+    "name": "Assisted Pull-up (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps",
+      "upper_back"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "back_extension",
+    "name": "Back Extension",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "lower_back",
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "barbell_row",
+    "name": "Barbell Row",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "belt_squat",
+    "name": "Belt Squat",
+    "equipment_type": "machine",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "bench_press_barbell",
@@ -24,8 +93,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-01T18:54:40.863Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "bench_press_dumbbell",
@@ -38,8 +107,33 @@
       "shoulders"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-01T19:21:43.327Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "bicep_curl_barbell",
+    "name": "Bicep Curl (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "biceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 25,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "bicep_curl_dumbbell",
+    "name": "Bicep Curl (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "biceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "bulgarian_split_squat",
@@ -51,8 +145,57 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.351Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "cable_crunch",
+    "name": "Cable Crunch",
+    "equipment_type": "cable",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "abs"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "cable_curl",
+    "name": "Cable Curl",
+    "equipment_type": "cable",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "biceps"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "cable_fly",
+    "name": "Cable Fly",
+    "equipment_type": "cable",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "cable_pull_through",
+    "name": "Cable Pull-Through",
+    "equipment_type": "cable",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "cable_row_seated",
@@ -65,8 +208,161 @@
       "rear_delts"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-01T19:21:43.347Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "calf_raise_seated",
+    "name": "Seated Calf Raise",
+    "equipment_type": "machine",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "calves"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "calf_raise_standing",
+    "name": "Standing Calf Raise",
+    "equipment_type": "machine",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "calves"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "chest_press_machine",
+    "name": "Chest Press (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "chest_supported_row",
+    "name": "Chest Supported Row",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "chest_supported_row_machine",
+    "name": "Chest Supported Row (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "chinups",
+    "name": "Chin-ups",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps",
+      "upper_back"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "close_grip_bench_press",
+    "name": "Close Grip Bench Press",
+    "equipment_type": "barbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "triceps",
+      "chest"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "dead_bug",
+    "name": "Dead Bug",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "abs",
+      "core"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "deadlift_conventional",
+    "name": "Deadlift (Conventional)",
+    "equipment_type": "barbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back",
+      "traps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "deadlift_sumo",
+    "name": "Deadlift (Sumo)",
+    "equipment_type": "barbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings",
+      "quads",
+      "lower_back"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "decline_bench_press_barbell",
+    "name": "Decline Bench Press (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "dips_chest",
@@ -79,8 +375,36 @@
       "shoulders"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-01T19:21:43.356Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "dumbbell_pullover",
+    "name": "Pullover (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "chest"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "dumbbell_row",
+    "name": "Dumbbell Row",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "per_hand",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "face_pulls",
@@ -93,8 +417,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.359Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "farmers_walk",
@@ -105,8 +429,101 @@
       "full_body"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.358Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "floor_press_barbell",
+    "name": "Floor Press (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "floor_press_dumbbell",
+    "name": "Floor Press (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "front_raise_cable",
+    "name": "Front Raise (Cable)",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "front_raise_dumbbell",
+    "name": "Front Raise (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "front_squat",
+    "name": "Front Squat",
+    "equipment_type": "barbell",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes",
+      "core"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "glute_bridge",
+    "name": "Glute Bridge",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "glute_ham_raise",
+    "name": "Glute Ham Raise",
+    "equipment_type": "machine",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "goblet_squat",
@@ -118,8 +535,49 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.340Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "good_mornings",
+    "name": "Good Mornings",
+    "equipment_type": "barbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "hack_squat",
+    "name": "Hack Squat",
+    "equipment_type": "machine",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "hammer_curl",
+    "name": "Hammer Curl",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "biceps",
+      "brachialis"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "hanging_leg_raise",
@@ -131,8 +589,135 @@
       "obliques"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.353Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "hip_thrust_barbell",
+    "name": "Hip Thrust (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "hip_thrust_machine",
+    "name": "Hip Thrust (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "incline_bench_press_barbell",
+    "name": "Incline Bench Press (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "incline_bench_press_dumbbell",
+    "name": "Incline Bench Press (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "inverted_row",
+    "name": "Inverted Row",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "kettlebell_swing",
+    "name": "Kettlebell Swing",
+    "equipment_type": "kettlebell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings",
+      "core"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "kroc_row",
+    "name": "Kroc Row",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "grip"
+    ],
+    "weight_entry_mode": "total_weight",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "landmine_press",
+    "name": "Landmine Press",
+    "equipment_type": "barbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "chest",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "landmine_row",
+    "name": "Landmine Row",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "lat_pulldown",
@@ -145,8 +730,120 @@
       "upper_back"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.357Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lat_pulldown_close_grip",
+    "name": "Lat Pulldown (Close Grip)",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps",
+      "upper_back"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lat_pulldown_underhand",
+    "name": "Lat Pulldown (Underhand)",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lat_pulldown_wide_grip",
+    "name": "Lat Pulldown (Wide Grip)",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "upper_back"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lateral_raise_cable",
+    "name": "Lateral Raise (Cable)",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lateral_raise_dumbbell",
+    "name": "Lateral Raise (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lateral_raise_machine",
+    "name": "Lateral Raise (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "leg_curl_lying",
+    "name": "Leg Curl (Lying)",
+    "equipment_type": "machine",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "leg_curl_seated",
+    "name": "Leg Curl (Seated)",
+    "equipment_type": "machine",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "leg_extension",
+    "name": "Leg Extension",
+    "equipment_type": "machine",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "leg_press",
@@ -158,8 +855,93 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.354Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "leg_press_single_leg",
+    "name": "Single Leg Press",
+    "equipment_type": "machine",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "lunges_dumbbell",
+    "name": "Lunges (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "per_hand",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "machine_pullover",
+    "name": "Pullover (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "chest"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "machine_row",
+    "name": "Machine Row",
+    "equipment_type": "machine",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "meadows_row",
+    "name": "Meadows Row",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "neutral_grip_pullups",
+    "name": "Neutral Grip Pull-ups",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps",
+      "upper_back"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "overhead_press_barbell",
@@ -172,8 +954,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-01T18:54:40.863Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "overhead_press_dumbbell",
@@ -185,8 +967,99 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-01T19:21:43.343Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "pallof_press",
+    "name": "Pallof Press",
+    "equipment_type": "cable",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "obliques",
+      "core"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "pec_deck",
+    "name": "Pec Deck (Machine Fly)",
+    "equipment_type": "machine",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "pendlay_row",
+    "name": "Pendlay Row",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "pendulum_squat",
+    "name": "Pendulum Squat",
+    "equipment_type": "machine",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "pike_pushups",
+    "name": "Pike Push-ups",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "abs",
+      "obliques"
+    ],
+    "weight_entry_mode": "duration",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "preacher_curl",
+    "name": "Preacher Curl",
+    "equipment_type": "barbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "biceps"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "pullups",
@@ -199,8 +1072,75 @@
       "upper_back"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-01T19:21:43.331Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "push_press",
+    "name": "Push Press",
+    "equipment_type": "barbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps",
+      "legs"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "pushups",
+    "name": "Push-ups",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "rear_delt_fly",
+    "name": "Rear Delt Fly",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "rear_delts"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "reverse_hyperextension",
+    "name": "Reverse Hyperextension",
+    "equipment_type": "machine",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "glutes",
+      "hamstrings",
+      "lower_back"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "reverse_pec_deck",
+    "name": "Reverse Pec Deck",
+    "equipment_type": "machine",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "rear_delts"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "romanian_deadlift",
@@ -213,8 +1153,323 @@
       "lower_back"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-01T19:21:43.343Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "romanian_deadlift_dumbbell",
+    "name": "Romanian Deadlift (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "russian_twist",
+    "name": "Russian Twist",
+    "equipment_type": "other",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "obliques",
+      "abs"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "seal_row",
+    "name": "Seal Row",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "seated_shoulder_press_dumbbell",
+    "name": "Seated Shoulder Press (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "shoulder_press_machine",
+    "name": "Shoulder Press (Machine)",
+    "equipment_type": "machine",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "shrugs_barbell",
+    "name": "Shrugs (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "traps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "shrugs_dumbbell",
+    "name": "Shrugs (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "traps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "single_arm_cable_row",
+    "name": "Single Arm Cable Row",
+    "equipment_type": "cable",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps"
+    ],
+    "weight_entry_mode": "stack",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "single_arm_lat_pulldown",
+    "name": "Single Arm Lat Pulldown",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps"
+    ],
+    "weight_entry_mode": "stack",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "single_leg_rdl_dumbbell",
+    "name": "Single Leg RDL (Dumbbell)",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "core"
+    ],
+    "weight_entry_mode": "per_hand",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "sissy_squat",
+    "name": "Sissy Squat",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "skull_crushers",
+    "name": "Skull Crushers",
+    "equipment_type": "barbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 25,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "smith_machine_bench_press",
+    "name": "Smith Machine Bench Press",
+    "equipment_type": "machine",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "smith_machine_incline_press",
+    "name": "Smith Machine Incline Press",
+    "equipment_type": "machine",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "smith_machine_overhead_press",
+    "name": "Smith Machine Overhead Press",
+    "equipment_type": "machine",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "smith_machine_squat",
+    "name": "Smith Machine Squat",
+    "equipment_type": "machine",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "squat_barbell",
+    "name": "Squat (Barbell)",
+    "equipment_type": "barbell",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "step_ups",
+    "name": "Step Ups",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "per_hand",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "stiff_leg_deadlift",
+    "name": "Stiff Leg Deadlift",
+    "equipment_type": "barbell",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "straight_arm_pulldown",
+    "name": "Straight Arm Pulldown",
+    "equipment_type": "cable",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "suitcase_carry",
+    "name": "Suitcase Carry",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "carry_conditioning",
+    "primary_muscle_groups": [
+      "grip",
+      "obliques",
+      "core"
+    ],
+    "weight_entry_mode": "total_weight",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "t_bar_row",
+    "name": "T-Bar Row",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "trap_bar_carry",
+    "name": "Trap Bar Carry",
+    "equipment_type": "trap_bar",
+    "movement_pattern": "carry_conditioning",
+    "primary_muscle_groups": [
+      "grip",
+      "traps",
+      "core"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 55,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   },
   {
     "id": "trap_bar_deadlift",
@@ -228,7 +1483,70 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 55,
-    "created_at": "2026-02-01T19:21:43.315Z",
-    "updated_at": "2026-02-01T22:16:49.492Z"
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "tricep_extension_overhead",
+    "name": "Overhead Tricep Extension",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "triceps"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "tricep_kickback",
+    "name": "Tricep Kickback",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "triceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "tricep_pushdown",
+    "name": "Tricep Pushdown",
+    "equipment_type": "cable",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "triceps"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "walking_lunges",
+    "name": "Walking Lunges",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "weight_entry_mode": "per_hand",
+    "unilateral": true,
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
+  },
+  {
+    "id": "wrist_curl",
+    "name": "Wrist Curl",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "isolation",
+    "primary_muscle_groups": [
+      "forearms"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T22:18:31.858Z",
+    "updated_at": "2026-02-01T22:22:24.803Z"
   }
 ]
