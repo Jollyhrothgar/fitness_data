@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bench_press_barbell",
+    "name": "Bench Press Barbell",
+    "equipment_type": "barbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T06:24:04.937Z",
+    "updated_at": "2026-02-01T18:23:23.752Z"
+  },
+  {
+    "id": "overhead_press_barbell",
+    "name": "Overhead Press Barbell",
+    "equipment_type": "barbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 45,
+    "created_at": "2026-02-01T06:24:04.938Z",
+    "updated_at": "2026-02-01T18:23:23.752Z"
+  }
+]
