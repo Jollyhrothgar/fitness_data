@@ -10,7 +10,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.342Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "bench_press_barbell",
@@ -25,7 +25,7 @@
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
     "created_at": "2026-02-01T18:54:40.863Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "bench_press_dumbbell",
@@ -39,7 +39,7 @@
     ],
     "weight_entry_mode": "per_hand",
     "created_at": "2026-02-01T19:21:43.327Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "bulgarian_split_squat",
@@ -52,7 +52,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.351Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "cable_row_seated",
@@ -66,7 +66,7 @@
     ],
     "weight_entry_mode": "stack",
     "created_at": "2026-02-01T19:21:43.347Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "dips_chest",
@@ -80,7 +80,7 @@
     ],
     "weight_entry_mode": "bodyweight_plus",
     "created_at": "2026-02-01T19:21:43.356Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "face_pulls",
@@ -94,7 +94,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.359Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "farmers_walk",
@@ -106,7 +106,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.358Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "goblet_squat",
@@ -119,7 +119,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.340Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "hanging_leg_raise",
@@ -132,7 +132,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.353Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "lat_pulldown",
@@ -146,7 +146,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.357Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "leg_press",
@@ -159,7 +159,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.354Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "overhead_press_barbell",
@@ -173,7 +173,7 @@
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
     "created_at": "2026-02-01T18:54:40.863Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "overhead_press_dumbbell",
@@ -186,7 +186,7 @@
     ],
     "weight_entry_mode": "per_hand",
     "created_at": "2026-02-01T19:21:43.343Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "pullups",
@@ -200,7 +200,7 @@
     ],
     "weight_entry_mode": "bodyweight_plus",
     "created_at": "2026-02-01T19:21:43.331Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "romanian_deadlift",
@@ -214,7 +214,7 @@
     ],
     "weight_entry_mode": "total_weight",
     "created_at": "2026-02-01T19:21:43.343Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   },
   {
     "id": "trap_bar_deadlift",
@@ -229,6 +229,6 @@
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 55,
     "created_at": "2026-02-01T19:21:43.315Z",
-    "updated_at": "2026-02-01T22:03:27.044Z"
+    "updated_at": "2026-02-01T22:16:49.492Z"
   }
 ]
