@@ -1,0 +1,178 @@
+{
+  "plan_meta": {
+    "plan_id": "functional_recomp_3day",
+    "plan_name": "3-Day Functional Recomposition",
+    "version": "1.0",
+    "days_per_week": 3,
+    "focus": "general",
+    "author_agent": "Gemini",
+    "notes": "Full-body frequency to maximize metabolic demand. Complements climbing/cycling by focusing on posterior chain and stability.",
+    "created_at": "2026-02-01T19:21:43.360Z",
+    "updated_at": "2026-02-01T19:21:43.360Z"
+  },
+  "schedule": [
+    {
+      "id": "day_a",
+      "day_name": "Day A - Foundation & Power",
+      "day_order": 1,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "trap_bar_deadlift",
+          "substitution_group": "hip_dominant",
+          "sets": 3,
+          "target_reps": "5-8",
+          "target_rpe": 8,
+          "rest_seconds": 180,
+          "notes": "Safe alternative to barbell squats for solo lifting. Focus on explosive upward movement."
+        },
+        {
+          "order": 2,
+          "exercise_id": "bench_press_dumbbell",
+          "substitution_group": "horizontal_push",
+          "sets": 3,
+          "target_reps": "8-10",
+          "target_rpe": 8,
+          "rest_seconds": 90,
+          "notes": "Dumbbells allow for better range of motion and are safer to fail solo than a barbell."
+        },
+        {
+          "order": 3,
+          "exercise_id": "pullups",
+          "substitution_group": "vertical_pull",
+          "sets": 3,
+          "target_reps": "AMRAP",
+          "target_rpe": 9,
+          "rest_seconds": 90,
+          "notes": "Essential for rock climbing performance. Use assistance band if needed."
+        },
+        {
+          "order": 4,
+          "exercise_id": "goblet_squat",
+          "substitution_group": "knee_dominant",
+          "sets": 3,
+          "target_reps": "12-15",
+          "target_rpe": 7,
+          "rest_seconds": 60,
+          "notes": "Higher reps for metabolic stress and core stability."
+        },
+        {
+          "order": 5,
+          "exercise_id": "ab_wheel_rollout",
+          "substitution_group": "core",
+          "sets": 3,
+          "target_reps": "10-12",
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "id": "day_b",
+      "day_name": "Day B - Strength & Stability",
+      "day_order": 2,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "overhead_press_dumbbell",
+          "substitution_group": "vertical_push",
+          "sets": 3,
+          "target_reps": "8-10",
+          "target_rpe": 8,
+          "rest_seconds": 120,
+          "notes": "Strict form. Avoid excessive arching in the lower back."
+        },
+        {
+          "order": 2,
+          "exercise_id": "romanian_deadlift",
+          "substitution_group": "hip_dominant",
+          "sets": 3,
+          "target_reps": "10-12",
+          "target_rpe": 8,
+          "rest_seconds": 90,
+          "notes": "Focus on the stretch in the hamstrings. Helps with bike power."
+        },
+        {
+          "order": 3,
+          "exercise_id": "cable_row_seated",
+          "substitution_group": "horizontal_pull",
+          "sets": 3,
+          "target_reps": "10-12",
+          "target_rpe": 8,
+          "rest_seconds": 90,
+          "notes": "Squeeze shoulder blades together at the peak."
+        },
+        {
+          "order": 4,
+          "exercise_id": "bulgarian_split_squat",
+          "substitution_group": "knee_dominant",
+          "sets": 3,
+          "target_reps": "8-10",
+          "target_rpe": 9,
+          "rest_seconds": 90,
+          "notes": "Brutal but effective for unilateral leg strength (MTB focus)."
+        },
+        {
+          "order": 5,
+          "exercise_id": "hanging_leg_raise",
+          "substitution_group": "core",
+          "sets": 3,
+          "target_reps": "10-15",
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "id": "day_c",
+      "day_name": "Day C - Hypertrophy & Carry",
+      "day_order": 3,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "leg_press",
+          "substitution_group": "knee_dominant",
+          "sets": 3,
+          "target_reps": "10-12",
+          "target_rpe": 8,
+          "rest_seconds": 120,
+          "notes": "Safe way to push leg volume without a spotter."
+        },
+        {
+          "order": 2,
+          "exercise_id": "dips_chest",
+          "substitution_group": "horizontal_push",
+          "sets": 3,
+          "target_reps": "AMRAP",
+          "target_rpe": 8,
+          "rest_seconds": 90
+        },
+        {
+          "order": 3,
+          "exercise_id": "lat_pulldown",
+          "substitution_group": "vertical_pull",
+          "sets": 3,
+          "target_reps": "10-12",
+          "target_rpe": 8,
+          "rest_seconds": 90
+        },
+        {
+          "order": 4,
+          "exercise_id": "farmers_walk",
+          "substitution_group": "carry_conditioning",
+          "sets": 3,
+          "target_reps": "40 meters",
+          "rest_seconds": 60,
+          "notes": "Builds grip strength for climbing and total body tension."
+        },
+        {
+          "order": 5,
+          "exercise_id": "face_pulls",
+          "substitution_group": "horizontal_pull",
+          "sets": 3,
+          "target_reps": "15-20",
+          "rest_seconds": 60,
+          "notes": "Shoulder health for climbing and biking posture."
+        }
+      ]
+    }
+  ]
+}
