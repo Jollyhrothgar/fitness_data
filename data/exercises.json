@@ -1,5 +1,18 @@
 [
   {
+    "id": "ab_wheel_rollout",
+    "name": "Ab Wheel Rollout",
+    "equipment_type": "other",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "abs",
+      "obliques"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.342Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
     "id": "bench_press_barbell",
     "name": "Bench Press Barbell",
     "equipment_type": "barbell",
@@ -12,7 +25,141 @@
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
     "created_at": "2026-02-01T18:54:40.863Z",
-    "updated_at": "2026-02-01T18:54:47.472Z"
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "bench_press_dumbbell",
+    "name": "Bench Press Dumbbell",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T19:21:43.327Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "bulgarian_split_squat",
+    "name": "Bulgarian Split Squat",
+    "equipment_type": "other",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.351Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "cable_row_seated",
+    "name": "Cable Row Seated",
+    "equipment_type": "cable",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "stack",
+    "created_at": "2026-02-01T19:21:43.347Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "dips_chest",
+    "name": "Dips Chest",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "horizontal_push",
+    "primary_muscle_groups": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T19:21:43.356Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "face_pulls",
+    "name": "Face Pulls",
+    "equipment_type": "other",
+    "movement_pattern": "horizontal_pull",
+    "primary_muscle_groups": [
+      "back",
+      "biceps",
+      "rear_delts"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.359Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "farmers_walk",
+    "name": "Farmers Walk",
+    "equipment_type": "other",
+    "movement_pattern": "carry_conditioning",
+    "primary_muscle_groups": [
+      "full_body"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.358Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "goblet_squat",
+    "name": "Goblet Squat",
+    "equipment_type": "other",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.340Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "hanging_leg_raise",
+    "name": "Hanging Leg Raise",
+    "equipment_type": "other",
+    "movement_pattern": "core",
+    "primary_muscle_groups": [
+      "abs",
+      "obliques"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.353Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "equipment_type": "other",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps",
+      "upper_back"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.357Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "leg_press",
+    "name": "Leg Press",
+    "equipment_type": "other",
+    "movement_pattern": "knee_dominant",
+    "primary_muscle_groups": [
+      "quadriceps",
+      "glutes"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.354Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
   },
   {
     "id": "overhead_press_barbell",
@@ -26,6 +173,62 @@
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
     "created_at": "2026-02-01T18:54:40.863Z",
-    "updated_at": "2026-02-01T18:54:47.472Z"
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "overhead_press_dumbbell",
+    "name": "Overhead Press Dumbbell",
+    "equipment_type": "dumbbell",
+    "movement_pattern": "vertical_push",
+    "primary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ],
+    "weight_entry_mode": "per_hand",
+    "created_at": "2026-02-01T19:21:43.343Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "pullups",
+    "name": "Pullups",
+    "equipment_type": "bodyweight",
+    "movement_pattern": "vertical_pull",
+    "primary_muscle_groups": [
+      "lats",
+      "biceps",
+      "upper_back"
+    ],
+    "weight_entry_mode": "bodyweight_plus",
+    "created_at": "2026-02-01T19:21:43.331Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "romanian_deadlift",
+    "name": "Romanian Deadlift",
+    "equipment_type": "other",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "weight_entry_mode": "total_weight",
+    "created_at": "2026-02-01T19:21:43.343Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
+  },
+  {
+    "id": "trap_bar_deadlift",
+    "name": "Trap Bar Deadlift",
+    "equipment_type": "trap_bar",
+    "movement_pattern": "hip_dominant",
+    "primary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "weight_entry_mode": "plates_per_side",
+    "default_bar_weight_lbs": 55,
+    "created_at": "2026-02-01T19:21:43.315Z",
+    "updated_at": "2026-02-01T22:03:27.044Z"
   }
 ]
