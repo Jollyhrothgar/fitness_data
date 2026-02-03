@@ -9,8 +9,8 @@
       "obliques"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "arnold_press",
@@ -22,8 +22,8 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "assisted_pullup_machine",
@@ -36,8 +36,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "back_extension",
@@ -50,8 +50,8 @@
       "hamstrings"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "barbell_row",
@@ -65,8 +65,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "belt_squat",
@@ -78,8 +78,8 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "bench_press_barbell",
@@ -93,8 +93,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-01T18:50:51.457Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "bench_press_dumbbell",
@@ -107,8 +107,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "bicep_curl_barbell",
@@ -120,8 +120,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 25,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "bicep_curl_dumbbell",
@@ -132,8 +132,8 @@
       "biceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "bulgarian_split_squat",
@@ -145,8 +145,8 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "cable_crunch",
@@ -157,8 +157,8 @@
       "abs"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "cable_curl",
@@ -169,8 +169,8 @@
       "biceps"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "cable_fly",
@@ -181,8 +181,8 @@
       "chest"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "cable_pull_through",
@@ -194,8 +194,8 @@
       "hamstrings"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "cable_row_seated",
@@ -208,8 +208,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "calf_raise_seated",
@@ -220,8 +220,8 @@
       "calves"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "calf_raise_standing",
@@ -232,8 +232,8 @@
       "calves"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "chest_press_machine",
@@ -246,8 +246,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "chest_supported_row",
@@ -260,8 +260,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "chest_supported_row_machine",
@@ -274,8 +274,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "chinups",
@@ -288,8 +288,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "close_grip_bench_press",
@@ -302,8 +302,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "dead_bug",
@@ -315,8 +315,8 @@
       "core"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "deadlift_conventional",
@@ -331,8 +331,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "deadlift_sumo",
@@ -347,8 +347,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "decline_bench_press_barbell",
@@ -361,8 +361,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "dips_chest",
@@ -375,8 +375,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "dumbbell_pullover",
@@ -388,8 +388,8 @@
       "chest"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "dumbbell_row",
@@ -403,8 +403,8 @@
     ],
     "weight_entry_mode": "per_hand",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "face_pulls",
@@ -417,8 +417,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "farmers_walk",
@@ -429,8 +429,8 @@
       "full_body"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "floor_press_barbell",
@@ -443,8 +443,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "floor_press_dumbbell",
@@ -456,8 +456,8 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "front_raise_cable",
@@ -468,8 +468,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "front_raise_dumbbell",
@@ -480,8 +480,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "front_squat",
@@ -495,8 +495,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "glute_bridge",
@@ -508,8 +508,8 @@
       "hamstrings"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "glute_ham_raise",
@@ -522,8 +522,8 @@
       "lower_back"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "goblet_squat",
@@ -535,8 +535,8 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "good_mornings",
@@ -550,8 +550,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "hack_squat",
@@ -563,8 +563,8 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "hammer_curl",
@@ -576,8 +576,8 @@
       "brachialis"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "hanging_leg_raise",
@@ -589,8 +589,8 @@
       "obliques"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "hip_thrust_barbell",
@@ -603,8 +603,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "hip_thrust_machine",
@@ -616,8 +616,8 @@
       "hamstrings"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "incline_bench_press_barbell",
@@ -631,8 +631,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "incline_bench_press_dumbbell",
@@ -645,8 +645,8 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "inverted_row",
@@ -659,8 +659,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "kettlebell_swing",
@@ -673,8 +673,8 @@
       "core"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "kroc_row",
@@ -688,8 +688,8 @@
     ],
     "weight_entry_mode": "total_weight",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "landmine_press",
@@ -702,8 +702,8 @@
       "triceps"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "landmine_row",
@@ -716,8 +716,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lat_pulldown",
@@ -730,8 +730,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lat_pulldown_close_grip",
@@ -744,8 +744,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lat_pulldown_underhand",
@@ -757,8 +757,8 @@
       "biceps"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lat_pulldown_wide_grip",
@@ -770,8 +770,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lateral_raise_cable",
@@ -782,8 +782,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lateral_raise_dumbbell",
@@ -794,8 +794,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lateral_raise_machine",
@@ -806,8 +806,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "leg_curl_lying",
@@ -818,8 +818,8 @@
       "hamstrings"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "leg_curl_seated",
@@ -830,8 +830,8 @@
       "hamstrings"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "leg_extension",
@@ -842,8 +842,8 @@
       "quadriceps"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "leg_press",
@@ -855,8 +855,8 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "leg_press_single_leg",
@@ -869,8 +869,8 @@
     ],
     "weight_entry_mode": "total_weight",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "lunges_dumbbell",
@@ -884,8 +884,8 @@
     ],
     "weight_entry_mode": "per_hand",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "machine_pullover",
@@ -897,8 +897,8 @@
       "chest"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "machine_row",
@@ -911,8 +911,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "meadows_row",
@@ -926,8 +926,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "neutral_grip_pullups",
@@ -940,8 +940,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "overhead_press_barbell",
@@ -954,8 +954,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-01T18:50:51.457Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "overhead_press_dumbbell",
@@ -967,8 +967,8 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pallof_press",
@@ -980,8 +980,8 @@
       "core"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pec_deck",
@@ -992,8 +992,8 @@
       "chest"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pendlay_row",
@@ -1007,8 +1007,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pendulum_squat",
@@ -1020,8 +1020,8 @@
       "glutes"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pike_pushups",
@@ -1033,8 +1033,8 @@
       "triceps"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "plank",
@@ -1046,8 +1046,8 @@
       "obliques"
     ],
     "weight_entry_mode": "duration",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "preacher_curl",
@@ -1058,8 +1058,8 @@
       "biceps"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pullups",
@@ -1072,8 +1072,8 @@
       "upper_back"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "push_press",
@@ -1087,8 +1087,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "pushups",
@@ -1101,8 +1101,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "rear_delt_fly",
@@ -1113,8 +1113,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "reverse_hyperextension",
@@ -1127,8 +1127,8 @@
       "lower_back"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "reverse_pec_deck",
@@ -1139,8 +1139,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "romanian_deadlift",
@@ -1153,8 +1153,8 @@
       "lower_back"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "romanian_deadlift_dumbbell",
@@ -1167,8 +1167,8 @@
       "lower_back"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "russian_twist",
@@ -1180,8 +1180,8 @@
       "abs"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "seal_row",
@@ -1195,8 +1195,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "seated_shoulder_press_dumbbell",
@@ -1208,8 +1208,8 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "shoulder_press_machine",
@@ -1221,8 +1221,8 @@
       "triceps"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "shrugs_barbell",
@@ -1234,8 +1234,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "shrugs_dumbbell",
@@ -1246,8 +1246,8 @@
       "traps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "single_arm_cable_row",
@@ -1260,8 +1260,8 @@
     ],
     "weight_entry_mode": "stack",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "single_arm_lat_pulldown",
@@ -1274,8 +1274,8 @@
     ],
     "weight_entry_mode": "stack",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "single_leg_rdl_dumbbell",
@@ -1289,8 +1289,8 @@
     ],
     "weight_entry_mode": "per_hand",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "sissy_squat",
@@ -1301,8 +1301,8 @@
       "quadriceps"
     ],
     "weight_entry_mode": "bodyweight_plus",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "skull_crushers",
@@ -1314,8 +1314,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 25,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "smith_machine_bench_press",
@@ -1328,8 +1328,8 @@
       "shoulders"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "smith_machine_incline_press",
@@ -1342,8 +1342,8 @@
       "triceps"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "smith_machine_overhead_press",
@@ -1355,8 +1355,8 @@
       "triceps"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "smith_machine_squat",
@@ -1368,8 +1368,8 @@
       "glutes"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "squat_barbell",
@@ -1383,8 +1383,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "step_ups",
@@ -1397,8 +1397,8 @@
     ],
     "weight_entry_mode": "per_hand",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "stiff_leg_deadlift",
@@ -1412,8 +1412,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 45,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "straight_arm_pulldown",
@@ -1424,8 +1424,8 @@
       "lats"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "suitcase_carry",
@@ -1439,8 +1439,8 @@
     ],
     "weight_entry_mode": "total_weight",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "t_bar_row",
@@ -1453,8 +1453,8 @@
       "rear_delts"
     ],
     "weight_entry_mode": "plates_per_side",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "trap_bar_carry",
@@ -1468,8 +1468,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 55,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "trap_bar_deadlift",
@@ -1483,8 +1483,8 @@
     ],
     "weight_entry_mode": "plates_per_side",
     "default_bar_weight_lbs": 55,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "tricep_extension_overhead",
@@ -1495,8 +1495,8 @@
       "triceps"
     ],
     "weight_entry_mode": "total_weight",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "tricep_kickback",
@@ -1507,8 +1507,8 @@
       "triceps"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "tricep_pushdown",
@@ -1519,8 +1519,8 @@
       "triceps"
     ],
     "weight_entry_mode": "stack",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "walking_lunges",
@@ -1534,8 +1534,8 @@
     ],
     "weight_entry_mode": "per_hand",
     "unilateral": true,
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   },
   {
     "id": "wrist_curl",
@@ -1546,7 +1546,7 @@
       "forearms"
     ],
     "weight_entry_mode": "per_hand",
-    "created_at": "2026-02-02T18:40:11.675Z",
-    "updated_at": "2026-02-02T19:51:47.287Z"
+    "created_at": "2026-02-02T16:50:24.542Z",
+    "updated_at": "2026-02-03T01:13:27.679Z"
   }
 ]
